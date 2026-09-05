@@ -25,4 +25,4 @@ No server, no account, no install.
 
 Vendor free tiers usually do **not** expose usage APIs. This dashboard is intentional manual logging so it stays accurate and private.
 
-Portfolio / personal utility by [Ngu Brice Che](https://github.com/supbrice).
+Portfolio / personal utility by [Brice](https://github.com/supbrice).
